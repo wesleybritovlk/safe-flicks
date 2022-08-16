@@ -15,11 +15,13 @@ Ferramentas requeridas
 2. Nest.js
 3. TypeORM
 4. Swagger
+5. Docker
+6. Redis
 
 Aspectos técnicos
 ---------------
 
-A arquitetura deve ser composta de uma aplicação provendo uma API RESTful em JSON. Todas as ferramentas listadas anteriormente são mandatórias, além delas sinta-se livre para utilizar de qualquer outra technologia que te seja confortável.
+A arquitetura deve ser composta de uma aplicação provendo uma API RESTful em JSON. Todas as ferramentas listadas anteriormente são mandatórias, além delas sinta-se livre para utilizar de qualquer outra technologia que te seja confortável. 
 
 OBS: Lembre-se de validar a informação tratada em cada endpoint.
 
