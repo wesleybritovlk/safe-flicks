@@ -6,7 +6,8 @@ Por favor organize, design, teste, faça a documentação e deploy do seu códig
 Tarefa (funcional)
 ---------------
 
-Você deve construir uma CRUD de um catálogo de filmes. Sinta-se livre para montar o relacionamento do projeto.
+1. Desenvolva um sistema de autenticação.
+2. Você deve construir uma CRUD de um catálogo de filmes. Todos os endpoints dessa CRUD só devem ser consumidos por um usuário autenticado.
 
 Ferramentas requeridas
 ---------------
@@ -33,4 +34,4 @@ Engenharia de qualidade é saber utilizar da ferramenta certa para o trabalho ce
 Faça o deploy!
 ---------------
 
-Ao finalizar, faça o deploy no lugar que te for mais confortável (exemplo: Amazon EC2, Heroku, Google AppEngine, etc)
+Ao finalizar, faça o deploy no lugar que te for mais confortável (exemplo: Amazon EC2, Heroku, Netlify, Google AppEngine, etc)
