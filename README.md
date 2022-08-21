@@ -23,7 +23,7 @@ Ferramentas requeridas
 Aspectos técnicos
 ---------------
 
-A arquitetura deve ser composta de uma aplicação provendo uma API RESTful em JSON. Todas as ferramentas listadas anteriormente são mandatórias, além delas sinta-se livre para utilizar de qualquer outra technologia que te seja confortável. 
+A arquitetura deve ser composta de uma aplicação provendo uma API RESTful em JSON, utilize do Redis como seu cache.
 
 OBS: Lembre-se de validar a informação tratada em cada endpoint.
 
