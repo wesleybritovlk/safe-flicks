@@ -18,6 +18,7 @@ Ferramentas requeridas
 4. Swagger
 5. Docker
 6. Redis
+7. PostgreSQL
 
 Aspectos técnicos
 ---------------
